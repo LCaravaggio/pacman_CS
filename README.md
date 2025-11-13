@@ -6,3 +6,5 @@ Intregrantes del grupo:
 - Josefina
 - Bautista
 - Matias
+
+El código se encuentra deployado en: https://josefinacaravaggio.github.io/pacman_CS/
